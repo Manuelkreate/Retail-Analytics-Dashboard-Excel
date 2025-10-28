@@ -1,0 +1,101 @@
+product_id,product_name,category,supplier,stock_on_hand,reorder_point
+P0001,Product 1,Home & Garden,AlphaTrade,18,193
+P0002,Product 2,Health & Beauty,PrimeSource,281,53
+P0003,Product 3,Fashion,GreenMart,360,58
+P0004,Product 4,Health & Beauty,NovaSupply,331,142
+P0005,Product 5,Health & Beauty,AlphaTrade,350,160
+P0006,Product 6,Groceries,PrimeSource,437,59
+P0007,Product 7,Fashion,GreenMart,415,67
+P0008,Product 8,Fashion,PrimeSource,477,124
+P0009,Product 9,Fashion,UrbanGoods,486,119
+P0010,Product 10,Health & Beauty,UrbanGoods,400,67
+P0011,Product 11,Home & Garden,AlphaTrade,227,124
+P0012,Product 12,Fashion,PrimeSource,262,115
+P0013,Product 13,Health & Beauty,UrbanGoods,364,148
+P0014,Product 14,Groceries,GreenMart,482,131
+P0015,Product 15,Home & Garden,GreenMart,272,96
+P0016,Product 16,Groceries,PrimeSource,472,64
+P0017,Product 17,Home & Garden,UrbanGoods,101,179
+P0018,Product 18,Health & Beauty,AlphaTrade,404,57
+P0019,Product 19,Electronics,GreenMart,380,192
+P0020,Product 20,Home & Garden,PrimeSource,258,155
+P0021,Product 21,Groceries,UrbanGoods,239,143
+P0022,Product 22,Health & Beauty,AlphaTrade,377,165
+P0023,Product 23,Home & Garden,GreenMart,188,173
+P0024,Product 24,Electronics,PrimeSource,306,197
+P0025,Product 25,Electronics,NovaSupply,188,140
+P0026,Product 26,Fashion,PrimeSource,385,55
+P0027,Product 27,Fashion,PrimeSource,230,70
+P0028,Product 28,Groceries,PrimeSource,365,53
+P0029,Product 29,Home & Garden,GreenMart,163,70
+P0030,Product 30,Home & Garden,GreenMart,451,154
+P0031,Product 31,Fashion,GreenMart,7,182
+P0032,Product 32,Home & Garden,PrimeSource,76,136
+P0033,Product 33,Home & Garden,PrimeSource,89,126
+P0034,Product 34,Electronics,UrbanGoods,397,183
+P0035,Product 35,Fashion,UrbanGoods,178,183
+P0036,Product 36,Health & Beauty,AlphaTrade,424,156
+P0037,Product 37,Fashion,NovaSupply,6,81
+P0038,Product 38,Health & Beauty,GreenMart,78,150
+P0039,Product 39,Electronics,NovaSupply,167,119
+P0040,Product 40,Groceries,GreenMart,4,151
+P0041,Product 41,Home & Garden,UrbanGoods,112,60
+P0042,Product 42,Electronics,AlphaTrade,347,110
+P0043,Product 43,Home & Garden,NovaSupply,333,160
+P0044,Product 44,Groceries,PrimeSource,268,131
+P0045,Product 45,Groceries,UrbanGoods,249,107
+P0046,Product 46,Electronics,AlphaTrade,444,53
+P0047,Product 47,Groceries,GreenMart,495,183
+P0048,Product 48,Health & Beauty,GreenMart,315,149
+P0049,Product 49,Groceries,AlphaTrade,279,90
+P0050,Product 50,Home & Garden,GreenMart,217,105
+P0051,Product 51,Home & Garden,GreenMart,324,136
+P0052,Product 52,Home & Garden,PrimeSource,359,83
+P0053,Product 53,Home & Garden,GreenMart,433,151
+P0054,Product 54,Health & Beauty,NovaSupply,410,168
+P0055,Product 55,Fashion,AlphaTrade,111,194
+P0056,Product 56,Electronics,AlphaTrade,455,66
+P0057,Product 57,Home & Garden,PrimeSource,230,67
+P0058,Product 58,Groceries,UrbanGoods,214,101
+P0059,Product 59,Home & Garden,UrbanGoods,489,113
+P0060,Product 60,Groceries,GreenMart,280,97
+P0061,Product 61,Groceries,AlphaTrade,329,95
+P0062,Product 62,Home & Garden,NovaSupply,269,137
+P0063,Product 63,Health & Beauty,NovaSupply,232,63
+P0064,Product 64,Groceries,GreenMart,255,61
+P0065,Product 65,Groceries,UrbanGoods,321,186
+P0066,Product 66,Home & Garden,GreenMart,125,181
+P0067,Product 67,Groceries,UrbanGoods,370,57
+P0068,Product 68,Groceries,PrimeSource,162,178
+P0069,Product 69,Home & Garden,PrimeSource,168,59
+P0070,Product 70,Home & Garden,PrimeSource,457,195
+P0071,Product 71,Electronics,AlphaTrade,158,118
+P0072,Product 72,Health & Beauty,UrbanGoods,234,135
+P0073,Product 73,Health & Beauty,UrbanGoods,51,71
+P0074,Product 74,Groceries,AlphaTrade,170,85
+P0075,Product 75,Health & Beauty,PrimeSource,20,123
+P0076,Product 76,Groceries,AlphaTrade,154,171
+P0077,Product 77,Electronics,GreenMart,491,128
+P0078,Product 78,Home & Garden,PrimeSource,45,143
+P0079,Product 79,Home & Garden,UrbanGoods,285,130
+P0080,Product 80,Home & Garden,GreenMart,429,117
+P0081,Product 81,Health & Beauty,GreenMart,42,59
+P0082,Product 82,Electronics,PrimeSource,188,156
+P0083,Product 83,Health & Beauty,AlphaTrade,257,54
+P0084,Product 84,Health & Beauty,UrbanGoods,12,166
+P0085,Product 85,Electronics,PrimeSource,255,78
+P0086,Product 86,Electronics,GreenMart,438,119
+P0087,Product 87,Electronics,GreenMart,32,194
+P0088,Product 88,Electronics,GreenMart,290,144
+P0089,Product 89,Home & Garden,GreenMart,132,82
+P0090,Product 90,Fashion,AlphaTrade,56,105
+P0091,Product 91,Fashion,UrbanGoods,350,174
+P0092,Product 92,Electronics,AlphaTrade,431,97
+P0093,Product 93,Fashion,PrimeSource,36,143
+P0094,Product 94,Fashion,AlphaTrade,85,188
+P0095,Product 95,Electronics,PrimeSource,487,182
+P0096,Product 96,Fashion,NovaSupply,228,179
+P0097,Product 97,Health & Beauty,NovaSupply,214,83
+P0098,Product 98,Groceries,PrimeSource,296,116
+P0099,Product 99,Groceries,AlphaTrade,159,87
+P0100,Product 100,Electronics,PrimeSource,69,189
